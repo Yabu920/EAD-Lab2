@@ -1,5 +1,7 @@
 # RESTful Product Catalogue API
 
+![CI](https://github.com/Yabu920/EAD-Lab2/actions/workflows/ci.yml/badge.svg)
+
 This project is a simple Spring Boot lab assignment that builds a RESTful Product Catalogue API. It lets users create, read, update, and delete products using a clean layered structure.
 
 ## Technologies Used
